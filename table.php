@@ -1,6 +1,7 @@
-Siia tuleb tabel
 <?php
-	require_oce("functions_php");
+	require_once("functions_php");
 	
 	getAllData();
 ?>
+
+<h1>Tabel</h1>
